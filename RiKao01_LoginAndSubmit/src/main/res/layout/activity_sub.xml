@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:text="注册"
+        android:textStyle="bold"
+        android:padding="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:hint="请输入手机号"
+        android:id="@+id/tel"   />
+    <EditText
+        android:layout_width="500dp"
+        android:layout_height="50dp"
+        android:hint="请输入密码"
+        android:id="@+id/pwd"   />
+
+    <Button
+        android:text="立即注册"
+        android:id="@+id/sub"
+        android:onClick="submit"
+        android:layout_marginTop="100dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>
