@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"  >
+
+    <!--首先定义标题栏-->
+    <RelativeLayout
+        android:layout_height="52dp"
+        android:background="#d3daec"
+        android:id="@+id/layout_titlebar"
+        android:layout_width="match_parent" >
+    <TextView
+        android:id="@+id/text_title"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:ellipsize="marquee"
+        android:gravity="center_horizontal|center"
+        android:textColor="#878787"
+        android:singleLine="true"
+        android:text="那些花儿"
+        android:textSize="28sp" />
+
+    <Button
+        android:id="@+id/button_backward"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:drawableLeft="@drawable/back_arrow"
+        android:drawablePadding="6dp"
+        android:text="返回"
+        android:background="#d3daec"
+        android:textColor="#ffffffff"
+        android:textSize="18dp"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:visibility="invisible" />
+
+    <Button
+        android:id="@+id/button_forward"
+        android:layout_width="70dp"
+        android:layout_height="match_parent"
+        android:drawableRight="@mipmap/ic_launcher"
+        android:layout_alignParentRight="true"
+        android:drawablePadding="6dp"
+        android:layout_marginRight="20dp"
+        android:ellipsize="end"
+        android:background="#d3daec"
+        android:gravity="center"
+        android:onClick="onClick"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:text="提交"
+        android:textColor="#ffffffff"
+        android:textSize="18dp"
+        android:visibility="invisible" />
+    </RelativeLayout>
+
+        <com.bwie.weekone_moni.View.CustomCircleView
+            android:layout_below="@+id/layout_titlebar"
+            android:layout_width="wrap_content"
+            android:layout_marginTop="88dp"
+            android:id="@+id/custom_Circle"
+            android:layout_height="500dp" />
+
+        <Button
+            android:textSize="21sp"
+            android:text="扫描二维码"
+            android:textColor="#80706e"
+            android:layout_width="188dp"
+            android:background="#619e85"
+            android:onClick="saoMiaoCode"
+            android:layout_marginTop="88dp"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/custom_Circle" />
+</RelativeLayout>

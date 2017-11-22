@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">周考一模拟：圆形进度条+二维码扫描+自定义组合控件标题栏+自定义矩形view</string>
+    <string name="text_back">返回</string>
+    <string name="text_forward">提交</string>
+</resources>
