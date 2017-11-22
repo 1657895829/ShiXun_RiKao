@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--首先定义标题栏,使用组合控件-->
+    <LinearLayout
+        android:layout_weight="0.35"
+        android:layout_height="0dp"
+        android:background="#d3daec"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_gravity="center_vertical">
+
+        <Button
+            android:id="@+id/button_backward"
+            android:layout_width="70dp"
+            android:layout_height="match_parent"
+            android:drawableLeft="@drawable/back_arrow"
+            android:drawablePadding="6dp"
+            android:background="#d3daec"
+            android:gravity="center"
+            android:paddingLeft="5dp"
+            android:singleLine="true"  />
+
+        <TextView
+            android:text="那些花儿"
+            android:textSize="28sp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:textColor="#878787"
+            android:layout_gravity="center"
+            android:layout_height="wrap_content"   />
+
+        <Button
+            android:singleLine="true"
+            android:layout_width="70dp"
+            android:layout_marginRight="15dp"
+            android:layout_height="wrap_content"
+            android:drawableRight="@mipmap/ic_launcher" />
+    </LinearLayout>
+
+    <com.bwie.weekone_moni_jiekou.view.CustomRectView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"></com.bwie.weekone_moni_jiekou.view.CustomRectView>
+</LinearLayout>

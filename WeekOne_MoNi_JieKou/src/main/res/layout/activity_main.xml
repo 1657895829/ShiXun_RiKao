@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!--调用自定义组合控件的标题栏-->
+    <com.bwie.weekone_moni_jiekou.view.TitleView
+        android:layout_weight="1"
+        android:id="@+id/titleView"
+        android:layout_height="0dp"
+        android:layout_width="match_parent"  ></com.bwie.weekone_moni_jiekou.view.TitleView>
+
+    <LinearLayout
+        android:gravity="center"
+        android:layout_weight="6"
+        android:layout_height="0dp"
+        android:orientation="vertical"
+        android:layout_width="match_parent"  >
+
+            <com.bwie.weekone_moni_jiekou.view.CustomCircleView
+                android:id="@+id/custom_Circle"
+                android:layout_width="300dp"
+                android:layout_height="300dp" />
+
+            <Button
+                android:textSize="21sp"
+                android:text="扫描二维码"
+                android:textColor="#80706e"
+                android:layout_width="188dp"
+                android:background="#619e85"
+                android:onClick="saoMiaoCode"
+                android:layout_marginTop="58dp"
+                android:layout_height="wrap_content"  />
+    </LinearLayout>
+</LinearLayout>
