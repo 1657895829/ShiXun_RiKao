@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/b"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/reative"
+        android:background="#1e8ffe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:padding="20dp"
+            android:textSize="26sp"
+            android:text="登录界面"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"    />
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/tel_Login"
+        android:hint="请输入您的手机号"
+        android:layout_marginTop="58dp"
+        android:layout_below="@+id/reative"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"/>
+
+    <EditText
+        android:id="@+id/pwd_Login"
+        android:hint="请输入您的密码"
+        android:layout_marginTop="58dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tel_Login"
+        android:layout_centerHorizontal="true"/>
+
+    <Button
+        android:text="登录"
+        android:textSize="21sp"
+        android:id="@+id/login"
+        android:background="#1E90FF"
+        android:layout_width="188dp"
+        android:layout_marginTop="108dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pwd_Login"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:textSize="21sp"
+        android:id="@+id/qqLogin"
+        android:text="第三方QQ登录"
+        android:background="#1E90FF"
+        android:layout_width="188dp"
+        android:layout_marginBottom="108dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"  />
+</RelativeLayout>

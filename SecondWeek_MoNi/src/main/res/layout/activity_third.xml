@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <android.support.v4.view.ViewPager
+        android:id="@+id/second_viewPager"
+        android:layout_above="@+id/groups"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v4.view.ViewPager>
+
+    <RadioGroup
+        android:id="@+id/groups"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true">
+        <RadioButton
+            android:text="个人中心"
+            android:padding="10dp"
+            android:button="@null"
+            android:checked="true"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:id="@+id/button_person"
+            android:textColor="@color/color"
+            android:layout_height="wrap_content" />
+
+        <RadioButton
+            android:text="列表"
+            android:padding="10dp"
+            android:button="@null"
+            android:textSize="18sp"
+            android:gravity="center"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:id="@+id/button_list"
+            android:textColor="@color/color"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+</RelativeLayout>

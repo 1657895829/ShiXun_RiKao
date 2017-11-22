@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- 被选中的按钮，文本显示成红色，其他显示成黑色 -->
+    <item android:state_checked="true" android:color="@color/selected"></item>
+    <item android:state_checked="false" android:color="@color/defaulted"></item>
+</selector>
