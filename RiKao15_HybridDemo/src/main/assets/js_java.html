@@ -1,0 +1,22 @@
+<html>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <title>调用java代码测试js</title>
+        <head>
+            <script type="text/javascript">
+            // 无参方法
+            function actionFromNative() {
+                document.getElementById("log_msg").innerHTML += "<br\>java调用js弹窗";
+            }
+            //有参方法
+            function actionFromNativeWithParam(arg) {
+                document.getElementById("log_msg").innerHTML += ("<br\>Android调用了js函数并传递参数：" + arg);
+            }
+             function actionFromJs()(){
+                  <button onClick="window.android.actionFromJs()">点击调用Android代码</button>
+             }
+            </script>
+        </head>
+
+    <body>
+    </body>
+</html>
