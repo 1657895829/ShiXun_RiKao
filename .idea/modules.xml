@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banner_MVP_OKhttp/Banner_MVP_OKhttp.iml" filepath="$PROJECT_DIR$/Banner_MVP_OKhttp/Banner_MVP_OKhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomBallView_RandomColor/CustomBallView_RandomColor.iml" filepath="$PROJECT_DIR$/CustomBallView_RandomColor/CustomBallView_RandomColor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LastMonth_WeekOneExam/LastMonth_WeekOneExam.iml" filepath="$PROJECT_DIR$/LastMonth_WeekOneExam/LastMonth_WeekOneExam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MapLocation/MapLocation.iml" filepath="$PROJECT_DIR$/MapLocation/MapLocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyJPushDemo/MyJPushDemo.iml" filepath="$PROJECT_DIR$/MyJPushDemo/MyJPushDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" filepath="$PROJECT_DIR$/NotificationDemo/NotificationDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QzoneCustomListView/QzoneCustomListView.iml" filepath="$PROJECT_DIR$/QzoneCustomListView/QzoneCustomListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao01_LoginAndSubmit/RiKao01_LoginAndSubmit.iml" filepath="$PROJECT_DIR$/RiKao01_LoginAndSubmit/RiKao01_LoginAndSubmit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao03_CircleBallViewDemo/RiKao03_CircleBallViewDemo.iml" filepath="$PROJECT_DIR$/RiKao03_CircleBallViewDemo/RiKao03_CircleBallViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao04_CustomTitle/RiKao04_CustomTitle.iml" filepath="$PROJECT_DIR$/RiKao04_CustomTitle/RiKao04_CustomTitle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao07_MvpFramework/RiKao07_MvpFramework.iml" filepath="$PROJECT_DIR$/RiKao07_MvpFramework/RiKao07_MvpFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao08_UserCenter/RiKao08_UserCenter.iml" filepath="$PROJECT_DIR$/RiKao08_UserCenter/RiKao08_UserCenter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao09_QQLoginDemo/RiKao09_QQLoginDemo.iml" filepath="$PROJECT_DIR$/RiKao09_QQLoginDemo/RiKao09_QQLoginDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao10_OkHttpDesign/RiKao10_OkHttpDesign.iml" filepath="$PROJECT_DIR$/RiKao10_OkHttpDesign/RiKao10_OkHttpDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao14_GaoDeMap/RiKao14_GaoDeMap.iml" filepath="$PROJECT_DIR$/RiKao14_GaoDeMap/RiKao14_GaoDeMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao15_HybridDemo/RiKao15_HybridDemo.iml" filepath="$PROJECT_DIR$/RiKao15_HybridDemo/RiKao15_HybridDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao16_ViewPager_OKhttp/RiKao16_ViewPager_OKhttp.iml" filepath="$PROJECT_DIR$/RiKao16_ViewPager_OKhttp/RiKao16_ViewPager_OKhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao19_PullListView/RiKao19_PullListView.iml" filepath="$PROJECT_DIR$/RiKao19_PullListView/RiKao19_PullListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RiKao20_Version_OKhttp_PushMsg/RiKao20_Version_OKhttp_PushMsg.iml" filepath="$PROJECT_DIR$/RiKao20_Version_OKhttp_PushMsg/RiKao20_Version_OKhttp_PushMsg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondWeek_LianXi/SecondWeek_LianXi.iml" filepath="$PROJECT_DIR$/SecondWeek_LianXi/SecondWeek_LianXi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecondWeek_MoNi/SecondWeek_MoNi.iml" filepath="$PROJECT_DIR$/SecondWeek_MoNi/SecondWeek_MoNi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShiXun_RiKao.iml" filepath="$PROJECT_DIR$/ShiXun_RiKao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdLogin_QQ/ThirdLogin_QQ.iml" filepath="$PROJECT_DIR$/ThirdLogin_QQ/ThirdLogin_QQ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThirdWeek_MoNi/ThirdWeek_MoNi.iml" filepath="$PROJECT_DIR$/ThirdWeek_MoNi/ThirdWeek_MoNi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekOne_MoNi/WeekOne_MoNi.iml" filepath="$PROJECT_DIR$/WeekOne_MoNi/WeekOne_MoNi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekOne_MoNi_JieKou/WeekOne_MoNi_JieKou.iml" filepath="$PROJECT_DIR$/WeekOne_MoNi_JieKou/WeekOne_MoNi_JieKou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekThree_ZuoPin/WeekThree_ZuoPin.iml" filepath="$PROJECT_DIR$/WeekThree_ZuoPin/WeekThree_ZuoPin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekTwo_ZuoPin/WeekTwo_ZuoPin.iml" filepath="$PROJECT_DIR$/WeekTwo_ZuoPin/WeekTwo_ZuoPin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libzxing/libzxing.iml" filepath="$PROJECT_DIR$/libzxing/libzxing.iml" />
+    </modules>
+  </component>
+</project>

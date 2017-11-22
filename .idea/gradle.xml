@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Studio\gradle\gradle-2.10" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Banner_MVP_OKhttp" />
+            <option value="$PROJECT_DIR$/CustomBallView_RandomColor" />
+            <option value="$PROJECT_DIR$/LastMonth_WeekOneExam" />
+            <option value="$PROJECT_DIR$/MapLocation" />
+            <option value="$PROJECT_DIR$/MyJPushDemo" />
+            <option value="$PROJECT_DIR$/NotificationDemo" />
+            <option value="$PROJECT_DIR$/QzoneCustomListView" />
+            <option value="$PROJECT_DIR$/RiKao01_LoginAndSubmit" />
+            <option value="$PROJECT_DIR$/RiKao03_CircleBallViewDemo" />
+            <option value="$PROJECT_DIR$/RiKao04_CustomTitle" />
+            <option value="$PROJECT_DIR$/RiKao07_MvpFramework" />
+            <option value="$PROJECT_DIR$/RiKao08_UserCenter" />
+            <option value="$PROJECT_DIR$/RiKao09_QQLoginDemo" />
+            <option value="$PROJECT_DIR$/RiKao10_OkHttpDesign" />
+            <option value="$PROJECT_DIR$/RiKao14_GaoDeMap" />
+            <option value="$PROJECT_DIR$/RiKao15_HybridDemo" />
+            <option value="$PROJECT_DIR$/RiKao16_ViewPager_OKhttp" />
+            <option value="$PROJECT_DIR$/RiKao19_PullListView" />
+            <option value="$PROJECT_DIR$/RiKao20_Version_OKhttp_PushMsg" />
+            <option value="$PROJECT_DIR$/SecondWeek_LianXi" />
+            <option value="$PROJECT_DIR$/SecondWeek_MoNi" />
+            <option value="$PROJECT_DIR$/ThirdLogin_QQ" />
+            <option value="$PROJECT_DIR$/ThirdWeek_MoNi" />
+            <option value="$PROJECT_DIR$/WeekOne_MoNi" />
+            <option value="$PROJECT_DIR$/WeekOne_MoNi_JieKou" />
+            <option value="$PROJECT_DIR$/WeekThree_ZuoPin" />
+            <option value="$PROJECT_DIR$/WeekTwo_ZuoPin" />
+            <option value="$PROJECT_DIR$/libzxing" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Banner_MVP_OKhttp" />
+            <option value="$PROJECT_DIR$/CustomBallView_RandomColor" />
+            <option value="$PROJECT_DIR$/LastMonth_WeekOneExam" />
+            <option value="$PROJECT_DIR$/MapLocation" />
+            <option value="$PROJECT_DIR$/MyJPushDemo" />
+            <option value="$PROJECT_DIR$/NotificationDemo" />
+            <option value="$PROJECT_DIR$/QzoneCustomListView" />
+            <option value="$PROJECT_DIR$/RiKao01_LoginAndSubmit" />
+            <option value="$PROJECT_DIR$/RiKao03_CircleBallViewDemo" />
+            <option value="$PROJECT_DIR$/RiKao04_CustomTitle" />
+            <option value="$PROJECT_DIR$/RiKao07_MvpFramework" />
+            <option value="$PROJECT_DIR$/RiKao08_UserCenter" />
+            <option value="$PROJECT_DIR$/RiKao09_QQLoginDemo" />
+            <option value="$PROJECT_DIR$/RiKao10_OkHttpDesign" />
+            <option value="$PROJECT_DIR$/RiKao14_GaoDeMap" />
+            <option value="$PROJECT_DIR$/RiKao15_HybridDemo" />
+            <option value="$PROJECT_DIR$/RiKao16_ViewPager_OKhttp" />
+            <option value="$PROJECT_DIR$/RiKao19_PullListView" />
+            <option value="$PROJECT_DIR$/RiKao20_Version_OKhttp_PushMsg" />
+            <option value="$PROJECT_DIR$/SecondWeek_LianXi" />
+            <option value="$PROJECT_DIR$/SecondWeek_MoNi" />
+            <option value="$PROJECT_DIR$/ThirdLogin_QQ" />
+            <option value="$PROJECT_DIR$/ThirdWeek_MoNi" />
+            <option value="$PROJECT_DIR$/WeekOne_MoNi" />
+            <option value="$PROJECT_DIR$/WeekOne_MoNi_JieKou" />
+            <option value="$PROJECT_DIR$/WeekThree_ZuoPin" />
+            <option value="$PROJECT_DIR$/WeekTwo_ZuoPin" />
+            <option value="$PROJECT_DIR$/libzxing" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
