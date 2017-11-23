@@ -9,8 +9,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AllSelect_ShowOrHide" />
             <option value="$PROJECT_DIR$/Banner_MVP_OKhttp" />
             <option value="$PROJECT_DIR$/CustomBallView_RandomColor" />
+            <option value="$PROJECT_DIR$/LastMonthExam_ShopCart" />
             <option value="$PROJECT_DIR$/LastMonth_WeekOneExam" />
             <option value="$PROJECT_DIR$/MapLocation" />
             <option value="$PROJECT_DIR$/MyJPushDemo" />
@@ -42,8 +44,10 @@
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AllSelect_ShowOrHide" />
             <option value="$PROJECT_DIR$/Banner_MVP_OKhttp" />
             <option value="$PROJECT_DIR$/CustomBallView_RandomColor" />
+            <option value="$PROJECT_DIR$/LastMonthExam_ShopCart" />
             <option value="$PROJECT_DIR$/LastMonth_WeekOneExam" />
             <option value="$PROJECT_DIR$/MapLocation" />
             <option value="$PROJECT_DIR$/MyJPushDemo" />
