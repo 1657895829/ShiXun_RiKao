@@ -1,7 +1,6 @@
 package com.dhw.lastmonthexam.bean;
 
 import java.util.List;
-
 public class SongBean {
 
     /**

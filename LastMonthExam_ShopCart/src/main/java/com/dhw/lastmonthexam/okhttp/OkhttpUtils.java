@@ -127,17 +127,5 @@ public class OkhttpUtils {
                 .build();
         client.newCall(request).enqueue(callBack);
 
-
     }
-
-
-
-
-
-
-
-
-
-
-
 }
